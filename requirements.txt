@@ -13,10 +13,17 @@ pandas  # https://github.com/pandas-dev/pandas
 matplotlib  # https://github.com/matplotlib/matplotlib
 seaborn  # https://github.com/mwaskom/seaborn
 jupyterlab  # https://github.com/cookiecutter/cookiecutter
+statsmodels  # https://github.com/statsmodels/statsmodels
+empiricaldist  # https://github.com/AllenDowney/empiricaldist
+pyjanitor  # https://github.com/pyjanitor-devs/pyjanitor
+
+# Data
+palmerpenguins  # https://github.com/mcnakhaee/palmerpenguins
 
 # Development
 ipdb  # https://github.com/gotcha/ipdb
 pytest  # https://github.com/pytest-dev/pytest
 
 # Environment
-python-dotenv  # https://pypi.org/project/python-dotenv
+python-dotenv  # https://github.com/theskumar/python-dotenv
+session-info  # https://gitlab.com/joelostblom/session_info
